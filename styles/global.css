@@ -88,11 +88,11 @@ ul[role="list"] {
    list-style: none;
 }
 
-@media (width >= 800em) {
+@media (width >= 80em) {
    :root {
-      --fs-2xl: 4rem;
-      --fs-xl: 3rem;
       --fs-lg: 2rem;
+      --fs-xl: 3rem;
+      --fs-2xl: 4rem;
 
       --px-lg: 2rem;
       --py-base: 1.5rem;
